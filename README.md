@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-ue-edge-sandbox--leachuk.hlx.page/
-- Live: https://main--aem-ue-edge-sandbox--leachuk.hlx.live/
+- Preview: https://main--ta-sample-ue-edge--leachuk.hlx.page/
+- Live: https://main--ta-sample-ue-edge--leachuk.hlx.live/
 
 ## Installation
 
