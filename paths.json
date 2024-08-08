@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/ta-sample-ue-edge/:/",
+    "/content/ta-sample-ue-edgex/:/",
     "/content/ta-sample-ue-edge/configuration:/.helix/config.json"
   ]
 }
